@@ -3,14 +3,13 @@
 ## Submitted Files
 
 1. **Makefile** - A build script that compiles all C source files into executables.
-2. **report.pdf** - A detailed report explaining the project.
-3. **Copy/**
+2. **Copy/**
    - **MyCopy.c** - Implements a basic file copying function.
    - **ForkCopy.c** - Implements file copying using the `fork()` system call.
    - **PipeCopy.c** - Implements file copying using inter-process communication (pipes).
-4. **Shell/**
+3. **Shell/**
    - **shell.c** - A command-line shell implementation that operates as a server.
-5. **Sort/**
+4. **Sort/**
    - **MergesortSingle.c** - Implements a single-threaded merge sort algorithm.
    - **MergesortMulti.c** - Implements a multi-threaded merge sort algorithm. 
 
